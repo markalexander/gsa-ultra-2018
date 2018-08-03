@@ -7,7 +7,7 @@ This repository contains my submission for GSA ULTRA 2018.
 ## Structure
 
 Each problem is its own Python package.  Solution functions are not run directly
-but rather through the comprehensive unit testing framework.  Each problems
+but rather through the comprehensive unit testing framework.  Each problem's
 unit tests can be found in the package directory in a file named
 `test_[problem_id].py`. These tests can be run using
 [pytest](https://docs.pytest.org/en/latest/), either for individual problems
