@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from . import solution, crossword_solution, get_score
-from crossword.across.recreation import crossword_solution as cws_5a
+from crossword.across.q5a import crossword_solution as cws_5a
 
 
 def test_solution() -> None:

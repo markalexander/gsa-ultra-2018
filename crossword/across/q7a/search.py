@@ -2,11 +2,11 @@
 
 from itertools import product
 
-from crossword.down.having_a_ball.solution import crossword_solution as cws_1d
-from crossword.down.fibonarcos.solution import crossword_solution as cws_4d
-from crossword.down.alan_and_ada.solution import crossword_solution as cws_6d
-from crossword.down.flower_power.solution import crossword_solution as cws_2d
-from crossword.down.barb_the_builder.solution import crossword_solution as \
+from crossword.down.q1d.solution import crossword_solution as cws_1d
+from crossword.down.q4d.solution import crossword_solution as cws_4d
+from crossword.down.q6d.solution import crossword_solution as cws_6d
+from crossword.down.q2d.solution import crossword_solution as cws_2d
+from crossword.down.q8d.solution import crossword_solution as \
     cws_8d
 
 alpha = ['a', 'b', 'c', 'd', 'e', 'f']

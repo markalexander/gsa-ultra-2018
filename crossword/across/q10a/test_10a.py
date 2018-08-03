@@ -2,9 +2,9 @@
 
 from random import randint
 from . import solution, crossword_solution, AliceBobGame
-from crossword.down.fibonarcos import crossword_solution as cws_4d
-from crossword.down.squared_away import crossword_solution as cws_11d
-from crossword.down.alan_and_ada import crossword_solution as cws_6d
+from crossword.down.q4d import crossword_solution as cws_4d
+from crossword.down.q11d import crossword_solution as cws_11d
+from crossword.down.q6d import crossword_solution as cws_6d
 
 
 def test_solution() -> None:

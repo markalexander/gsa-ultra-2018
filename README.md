@@ -27,22 +27,22 @@ directories.  A list is given below.
 
 ### Across
 
-  - [1. Hello world](crossword/across/hello_world)
-  - [5. Recreation through recreating](crossword/across/recreation)
-  - [7. A cryptic crossword clue](crossword/across/cryptic_clue)
-  - [10. Horse-chestnutting around](crossword/across/horse_chestnutting)
-  - [12. Mission Demolition](crossword/across/mission_demolition)
+  - [1. Hello world](crossword/across/q1a)
+  - [5. Recreation through recreating](crossword/across/q5a)
+  - [7. A cryptic crossword clue](crossword/across/q7a)
+  - [10. Horse-chestnutting around](crossword/across/q10a)
+  - [12. Mission Demolition](crossword/across/q12a)
 
 ### Down
 
-  - [1. Having a ball](crossword/down/having_a_ball)
-  - [2. Flower power](crossword/down/flower_power)
-  - [3. Fearful symmetry](crossword/down/fearful_symmetry)
-  - [4. Fibonarcos](crossword/down/fibonarcos)
-  - [6. Alan and Ada](crossword/down/alan_and_ada)
-  - [8. Barb the builder](crossword/down/barb_the_builder)
-  - [9. Truly a mazing mouse](crossword/down/amazing_mouse)
-  - [11. Squared away](crossword/down/squared_away)
+  - [1. Having a ball](crossword/down/q1d)
+  - [2. Flower power](crossword/down/q2d)
+  - [3. Fearful symmetry](crossword/down/q3d)
+  - [4. Fibonarcos](crossword/down/q4d)
+  - [6. Alan and Ada](crossword/down/q6d)
+  - [8. Barb the builder](crossword/down/q8d)
+  - [9. Truly a mazing mouse](crossword/down/q9d)
+  - [11. Squared away](crossword/down/q11d)
 
 
 ## Setup and running

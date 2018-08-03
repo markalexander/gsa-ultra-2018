@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from . import solution, crossword_solution, is_fib_integer
-from crossword.across.cryptic_clue import crossword_solution as cws_7a
+from crossword.across.q7a import crossword_solution as cws_7a
 from crossword.across.horse_chestnutting import crossword_solution as cws_10a
 
 

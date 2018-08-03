@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 
 from . import solution, crossword_solution
-from crossword.down.having_a_ball import crossword_solution as cws_1d
-from crossword.down.fibonarcos import crossword_solution as cws_4d
-from crossword.down.alan_and_ada import crossword_solution as cws_6d
-from crossword.down.barb_the_builder import crossword_solution as cws_8d
+from crossword.down.q1d import crossword_solution as cws_1d
+from crossword.down.q4d import crossword_solution as cws_4d
+from crossword.down.q6d import crossword_solution as cws_6d
+from crossword.down.q8d import crossword_solution as cws_8d
 
 
 def test_solution():

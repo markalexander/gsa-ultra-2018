@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 from . import solution, crossword_solution
-from crossword.across.cryptic_clue import crossword_solution as cws_7a
-from crossword.across.mission_demolition import crossword_solution as cws_12a
+from crossword.across.q7a import crossword_solution as cws_7a
+from crossword.across.q12a import crossword_solution as cws_12a
 
 
 def test_solution() -> None:

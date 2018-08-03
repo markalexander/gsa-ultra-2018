@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from . import solution, crossword_solution
-from crossword.down.having_a_ball import crossword_solution as cws_1d
+from crossword.down.q1d import crossword_solution as cws_1d
 
 
 def test_solution() -> None:

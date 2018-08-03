@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 from . import solution, crossword_solution
-from crossword.down.barb_the_builder import crossword_solution as cws_8d
-from crossword.down.amazing_mouse import crossword_solution as cws_9d
+from crossword.down.q8d import crossword_solution as cws_8d
+from crossword.down.q9d import crossword_solution as cws_9d
 
 
 def test_solution() -> None:

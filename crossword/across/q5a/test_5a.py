@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 from . import solution, crossword_solution
-from crossword.down.flower_power import crossword_solution as cws_2d
-from crossword.down.fearful_symmetry import crossword_solution as cws_3d
+from crossword.down.q2d import crossword_solution as cws_2d
+from crossword.down.q3d import crossword_solution as cws_3d
 
 
 def test_solution() -> None:
